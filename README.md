@@ -1,3 +1,3 @@
 
 # Project 0
-Hello!
+Hello GitHub!
